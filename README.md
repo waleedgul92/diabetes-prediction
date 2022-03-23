@@ -11,17 +11,26 @@ I made this project solo to learn and implement the concepts of data science and
 
 ![image](https://user-images.githubusercontent.com/84980384/159522055-d9a517e0-cb3f-4fcc-a341-88819c195e41.png)
 
+* Importing dataset and looking for insights.
+
 ![image](https://user-images.githubusercontent.com/84980384/159732400-a8c6b2cc-076a-4c9f-8fb8-ec873f8e39f9.png)
 
 ![image](https://user-images.githubusercontent.com/84980384/159732469-0be8763f-c99d-4d3e-8b0a-66534041cc03.png)
 
+* ploting histogram.
+
+
 ![image](https://user-images.githubusercontent.com/84980384/159732539-ad663703-3c34-4903-ae48-62744941d635.png)
+
+
 
 ![image](https://user-images.githubusercontent.com/84980384/159732588-f5288956-6535-4de6-b682-2f491cd345f8.png)
 
 ![image](https://user-images.githubusercontent.com/84980384/159732631-fb88990f-97de-48aa-b4ac-106bcfc0fc2d.png)
 
 ![image](https://user-images.githubusercontent.com/84980384/159732682-9a30715c-2a82-419d-b42c-d46c632b6aa0.png)
+
+* ploting distplot.
 
 ![image](https://user-images.githubusercontent.com/84980384/159733038-e7ddae24-b7fa-4e8b-9f56-dfe0f4210e23.png)
 
